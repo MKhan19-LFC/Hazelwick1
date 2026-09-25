@@ -1,0 +1,8 @@
+addition=input("give me an addition question:")
+subtraction=input("give me a subtraction question:")
+multiplication=input("give me a multiplication question:")
+division=input("give me a division question:")
+answer1=input("answer", addition)
+answer2=input("answer",subtraction)
+answer3=input("answer",multiplication)
+answer4=input("answer",division)
